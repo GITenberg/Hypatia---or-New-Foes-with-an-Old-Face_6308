@@ -1,0 +1,45 @@
+_repo: Hypatia---or-New-Foes-with-an-Old-Face_6308
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kingsley, Charles
+    aliases:
+    - Kingsley, C. (Charles)
+    - Kingley, Charles
+    birthdate: 1819
+    deathdate: 1875
+    gutenberg_agent_id: '344'
+    url: http://www.gutenberg.org/2009/agents/344
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Kingsley
+description: "Hypatia, or New Foes with an Old Face is an 1853 novel by the English\
+  \ writer Charles Kingsley. It is a fictionalised account of the life of the philosopher\
+  \ Hypatia, and tells the story of a young monk called Philammon who travels to Alexandria,\
+  \ where he becomes mixed up in the political and religious battles of the day. Although\
+  \ intended as Christian apologia, the novel has a deliberate anti-Catholic tone,\
+  \ and it also reflects Kingsley's other prejudices about race and religion, many\
+  \ of which were typical to the 19th century. For many years the book was considered\
+  \ one of Kingsley's best novels and was widely read.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '2004-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6308'
+  wikidata: Q12060647
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Alexandria (Egypt) -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcsh 'Hypatia, d. 415 -- Fiction'
+- !lcsh 'Women philosophers -- Fiction'
+- !lcsh 'Biographical fiction'
+- !lcsh 'Egypt -- History -- 30 B.C.-640 A.D. -- Fiction'
+- GITenberg
+title: Hypatia — or New Foes with an Old Face
+url: http://www.gutenberg.org/ebooks/6308
+wikipedia:
+- https://en.wikipedia.org/wiki/Hypatia_(novel)
+- https://commons.wikimedia.org/wiki/Category:Hypatia_(Charles_Kingsley)
